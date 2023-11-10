@@ -1,0 +1,6 @@
+<resources>
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/alert_dialog_background</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>
